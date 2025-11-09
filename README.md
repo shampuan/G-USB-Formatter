@@ -1,4 +1,4 @@
-# GNU-USB-Formatter
+# G-USB-Formatter
 Advanced USB Memory Device Format Tool
 
 Attribution: The interface of this program is pyside-6.
