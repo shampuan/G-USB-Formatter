@@ -1,6 +1,8 @@
 # GNU-USB-Formatter
 Advanced USB Memory Device Format Tool
 
+Attribution: The interface of this program is pyside-6.
+
 This explanation is about GNU-USB Formatter.
 
 When I was just starting out in programming, I was very ignorant when it came to naming my applications and didn't understand some of the rules. So, I named my application GNU-... But I later learned that this was incorrect and against the rules.
