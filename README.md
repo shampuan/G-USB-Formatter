@@ -1,6 +1,14 @@
 # GNU-USB-Formatter
 Advanced USB Memory Device Format Tool
-<img width="402" height="497" alt="Ekran görüntüsü_2025-07-21_18-02-29" src="https://github.com/user-attachments/assets/2101e743-224d-4132-9ef3-26064914647c" />
+
+This explanation is about GNU-USB Formatter.
+
+When I was just starting out in programming, I was very ignorant when it came to naming my applications and didn't understand some of the rules. So, I named my application GNU-... But I later learned that this was incorrect and against the rules.
+
+Now, the program has been reborn as GNU-USB Formatter and is ready for you to use.
+
+![Uploading Ekran görüntüsü_2025-11-09_18-12-00.png…]()
+
 
 Bu araç, flaşbelleklerinizi, taşınabilir HDD ve SSD'lerinizi istediğiniz seçeneklere göre biçimlendirerek kullanıma hazır hale getirir. 
 
