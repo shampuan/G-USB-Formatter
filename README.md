@@ -9,7 +9,8 @@ When I was just starting out in programming, I was very ignorant when it came to
 
 Now, the program has been reborn as GNU-USB Formatter and is ready for you to use.
 
-![Uploading Ekran görüntüsü_2025-11-09_18-12-00.png…]()
+
+<img width="460" height="554" alt="Ekran görüntüsü_2025-11-09_18-12-00" src="https://github.com/user-attachments/assets/abdcb522-d662-43e3-a751-2c47e9c39f8b" />
 
 
 Bu araç, flaşbelleklerinizi, taşınabilir HDD ve SSD'lerinizi istediğiniz seçeneklere göre biçimlendirerek kullanıma hazır hale getirir. 
