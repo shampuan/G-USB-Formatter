@@ -1,0 +1,11 @@
+Package: g-usb-formatter
+Version: 2.1.9
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3 (>= 3.6), python3-pip, build-essential, python3-dev, libqt6core6, libqt6widgets6, libqt6gui6, libxcb-cursor0, udisks2, parted, ntfs-3g, dosfstools, e2fsprogs, pkexec, exfatprogs | exfat-utils
+Maintainer: A. Serhat KILIÇOĞLU <www.github.com/shampuan>
+Description: A simple and cross-platform USB disk formatting tool for Linux.
+ This utility allows you to format USB flash drives using various file systems
+ (NTFS, FAT32, ExFAT, Ext4) with MBR or GPT partitioning options.
+ It is built with Python 3 and PySide6 (Qt).
