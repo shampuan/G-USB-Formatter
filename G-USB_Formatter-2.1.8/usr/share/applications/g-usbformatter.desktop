@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=G-USB Formatter
+Comment=Flash bellekleri hızlı ve güvenilir bir şekilde biçimlendirir.
+Exec=/usr/share/G-USB-Formatter/g-usbformatter.py
+Icon=/usr/share/G-USB-Formatter/icons/usb_icon.png
+Terminal=false
+Type=Application
+Categories=Utility;System;
+Keywords=usb;flash;format;ntfs;fat32;exfat;
+StartupNotify=true
