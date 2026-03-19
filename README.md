@@ -1,17 +1,21 @@
 # G-USB-Formatter
 Advanced USB Memory Device Format Tool
 
-Attribution: The interface of this program is pyside-6.
+<img width="256" height="256" alt="usb_icon" src="https://github.com/user-attachments/assets/3fb35b24-76cf-42cd-9c68-832d0e04eaf1" />
 
-This explanation is about GNU-USB Formatter.
+NTFS
+FAT32
+ExFAT
+Ext4
+Btrfs
+XFS
+HFS+
 
-When I was just starting out in programming, I was very ignorant when it came to naming my applications and didn't understand some of the rules. So, I named my application GNU-... But I later learned that this was incorrect and against the rules.
+<img width="460" height="554" alt="Ekran görüntüsü_2026-03-19_21-24-03" src="https://github.com/user-attachments/assets/7fb34d54-8da4-476d-ad79-7357d8a7c390" />
 
-Now, the program has been reborn as GNU-USB Formatter and is ready for you to use.
+<img width="460" height="554" alt="Ekran görüntüsü_2026-03-19_21-24-28" src="https://github.com/user-attachments/assets/3676acf2-f395-484d-9c26-bbe298f73359" />
 
-
-<img width="460" height="554" alt="Ekran görüntüsü_2025-11-09_18-12-00" src="https://github.com/user-attachments/assets/abdcb522-d662-43e3-a751-2c47e9c39f8b" />
-
+GUI Language: English and Turkish
 
 Bu araç, flaşbelleklerinizi, taşınabilir HDD ve SSD'lerinizi istediğiniz seçeneklere göre biçimlendirerek kullanıma hazır hale getirir. 
 
@@ -23,4 +27,4 @@ Bu araç, flaşbelleklerinizi, taşınabilir HDD ve SSD'lerinizi istediğiniz se
 - İşlemlerden önce sizi uyarır.
 - Bu program root parolası gerektirir.
 
-Lisans: GNU GPL-v3  Maintainer: @Zeus (çeşitli yapay zekalar yardımıyla).
+Lisans: GNU GPL-v3  Maintainer: @Shampuan (çeşitli yapay zekalar yardımıyla).
