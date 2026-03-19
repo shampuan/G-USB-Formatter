@@ -1,0 +1,11 @@
+Package: g-usbformatter
+Version: 3.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: A. Serhat KILICOGLU <www.github.com/shampuan>
+Depends: python3, python3-pyqt6, coreutils, util-linux, parted, udev, policykit-1, ntfs-3g, dosfstools, exfatprogs, btrfs-progs, xfsprogs, hfsprogs
+Description: A simple and powerful USB formatting tool.
+ G-USB Formatter is a tool that allows you to format your USB flash drives, 
+ hard drives, and SSD storage devices with various file systems including 
+ NTFS, FAT32, ExFAT, Ext4, Btrfs, XFS, and HFS+.
