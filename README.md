@@ -11,11 +11,7 @@ Btrfs
 XFS
 HFS+
 
-<img width="460" height="554" alt="Ekran görüntüsü_2026-03-19_21-24-03" src="https://github.com/user-attachments/assets/7fb34d54-8da4-476d-ad79-7357d8a7c390" />
-
 ![Peek 2026-03-19 22-34](https://github.com/user-attachments/assets/4665eff8-2526-40c8-9959-fe8b76d582dd)
-![Peek 2026-03-19 22-34](https://github.com/user-attachments/assets/4665eff8-2526-40c8-9959-fe8b76d582dd)
-
 
 <img width="460" height="554" alt="Ekran görüntüsü_2026-03-19_21-24-28" src="https://github.com/user-attachments/assets/3676acf2-f395-484d-9c26-bbe298f73359" />
 
