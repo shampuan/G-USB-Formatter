@@ -1,0 +1,13 @@
+NTFS
+FAT32
+ExFAT
+Ext4
+
+Eklendi: 
+Btrfs
+XFS
+HFS+
+
+Bağımlılık hatası düzeltildi.
+Fixed dependency error.
+
