@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=G-USB Formatter
+Comment=Formats USB devices.
+Exec=python3 /usr/share/G-USB-Formatter/g-usbformatter.py
+Icon=usb_icon.png
+Terminal=false
+Type=Application
+Categories=Utility;System;
+Keywords=usb;flash;format;ntfs;fat32;exfat;
+StartupNotify=true

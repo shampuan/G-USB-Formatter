@@ -1,0 +1,24 @@
+
+-------------
+3.0.2
+
+RAW disklerin listelenmemesi sorunu çözüldü. 
+Fixed list error the RAW(unallocated) drives.
+Program USB HDD'leri USB aygıtı olarak tanımlayamıyordu. TRAN düzeltmesi ile sorun çözüldü. 
+
+-------------
+3.0.1
+
+NTFS
+FAT32
+ExFAT
+Ext4
+
+Eklendi: 
+Btrfs
+XFS
+HFS+
+
+Bağımlılık hatası düzeltildi.
+Fixed dependency error.
+--------------
